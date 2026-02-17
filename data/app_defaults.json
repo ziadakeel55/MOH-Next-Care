@@ -1,0 +1,41 @@
+{
+    "defaults": {
+        "hospitaldirector": "Dar As salamah",
+        "bednumber": "2",
+        "sendername": "MR HAMAD",
+        "bookingperiod": "48h",
+        "employeename": "DR.Walaa Sultan",
+        "telephone": "0536553150",
+        "nationality": "Saudi",
+        "roomnumber": "5",
+        "medicalfilenumber": ""
+    },
+    "options": {
+        "section": [
+            "ICU",
+            "Inpatient Ward",
+            "NICU",
+            "Surgery",
+            "picu",
+            "Internal Medicine",
+            "orthopedics"
+        ],
+        "nationality": [
+            "Saudi",
+            "Egyptian",
+            "Syrian",
+            "Indian",
+            "Filipino",
+            "Pakistani",
+            "Sudanese",
+            "Jordanian",
+            "Yemeni"
+        ],
+        "doctorname": [
+            "Dr. RASHAA",
+            "Dr. NOHA",
+            "Dr. Waleed",
+            "Dr. Ali"
+        ]
+    }
+}
